@@ -15,7 +15,7 @@
     }
 
 /***************************************************************************************/
-//Merge Sorted Arrays Without Extra Space
+//Merge Sorted Arrays Without Extra Space(Hard)
 //gfg: https://bit.ly/3zRzmAo
 //Ref: https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/
         void merge(long long ar1[], long long ar2[], int n, int m) { 
