@@ -27,7 +27,7 @@ class Solution
     }
 };
 
-/***********************************************************/
+/*************************************************************/
 //Variation
 //leetcode: https://leetcode.com/problems/subarrays-with-k-different-integers/description/
 //gfg: https://practice.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1
