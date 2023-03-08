@@ -1,6 +1,6 @@
-///Longest Palindromic Substring(w/o DP)
-///leetcode: https://leetcode.com/problems/longest-palindromic-substring/description/
-///gfg: https://bit.ly/3CeQ27D
+//Longest Palindromic Substring(w/o DP)
+//leetcode: https://leetcode.com/problems/longest-palindromic-substring/description/
+//gfg: https://bit.ly/3CeQ27D
 
 //ref: https://www.geeksforgeeks.org/longest-palindromic-substring-using-dynamic-programming-2/
 
