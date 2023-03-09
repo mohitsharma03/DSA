@@ -1,5 +1,5 @@
 //Sum of Beauty of All Substrings
-///leetcode: https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/
+//leetcode: https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/
 //gfg: https://bit.ly/3LRh089
 
     int beautySum(string s) {
