@@ -1,5 +1,5 @@
 //Convert array to linked list
-//gfg:
+//gfg: https://bit.ly/3URZnst
 
 
 #include <bits/stdc++.h>
