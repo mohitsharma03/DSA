@@ -1,7 +1,7 @@
 //Find middle element in a Linked List(Torotoise-Hare method)
 //leetcode: https://leetcode.com/problems/middle-of-the-linked-list/description/
 //gfg: https://bit.ly/3dAjkn1
-///ref: https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/
+//ref: https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/
 
 /***************************GFG soln**********************************/
 #include <bits/stdc++.h>
