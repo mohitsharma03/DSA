@@ -2,7 +2,7 @@
 //leetcode: https://leetcode.com/problems/reverse-linked-list/description/
 //gfg: https://bit.ly/3zY03mT
 
-///ref: https://takeuforward.org/data-structure/reverse-a-linked-list/
+//ref: https://takeuforward.org/data-structure/reverse-a-linked-list/
 
 /***********************************GFG Soln***************************************************/
 #include <stdio.h>
