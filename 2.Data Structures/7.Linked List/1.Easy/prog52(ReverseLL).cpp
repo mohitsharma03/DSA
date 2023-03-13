@@ -1,9 +1,9 @@
-//Reverse Link List(Iterative)
+//Reverse Link List(Iterative/Recursive)
 //leetcode: https://leetcode.com/problems/reverse-linked-list/description/
 //gfg: https://bit.ly/3zY03mT
 
 //ref: https://takeuforward.org/data-structure/reverse-a-linked-list/
-
+//below soln is iterative, for recursive see above striver link
 /***********************************GFG Soln***************************************************/
 #include <stdio.h>
 #include <stdlib.h>
