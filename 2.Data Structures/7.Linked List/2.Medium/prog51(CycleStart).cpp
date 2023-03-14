@@ -1,7 +1,7 @@
 //Find the first node of loop/cycle in linked list
 //leetcode: https://leetcode.com/problems/linked-list-cycle-ii/description/
 //gfg: https://bit.ly/3zuBr66
-///ref: https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/
+//ref: https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/
 
 /*****************************GFG*********************************/
 #include <bits/stdc++.h>
